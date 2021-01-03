@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+_My name is Keneddy Musembi Muia from Kenya.I am a third year Computer science student at the [University of Nairobi][uon].Ever since i was young i have always been passionate about computers and its quite humbling to be on the steps to make my dream become a reality by pursuing a bachelor's degree in computer science.Upon graduation i would love to venture in the field of cyber security.Currently i am training myself to become an expert developer by learning different programming langauges and developing systems through them ._
 
 
-[jekyll-organization]: https://github.com/jekyll
+
+[uon]: https://www.uonbi.ac.ke/
